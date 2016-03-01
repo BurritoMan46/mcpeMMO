@@ -33,7 +33,7 @@ use mcpeMMO\party\PartyManager;
 use mcpeMMO\party\ShareHandler;
 use mcpeMMO\skills\SkillManager; /* in the Skill Manager links all the other skills */
 
-class Main extends PluginBase{
+class mcpeMMO extends PluginBase{
     
     public function onEnable(){
         $this->getLogger()->info("mcpeMMO has been enabled.");
