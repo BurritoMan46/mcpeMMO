@@ -29,4 +29,4 @@ use mcpeMMO\skills\unarmed\UnarmedManager;
 use mcpeMMO\skills\woodcutting\Woodcutting;
 use mcpeMMO\skills\woodcutting\WoodcuttingManager;
 
-public class SkillManager(
+public class SkillManager;
