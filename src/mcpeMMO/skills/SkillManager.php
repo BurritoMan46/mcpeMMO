@@ -30,5 +30,3 @@ use mcpeMMO\skills\woodcutting\Woodcutting;
 use mcpeMMO\skills\woodcutting\WoodcuttingManager;
 
 public class SkillManager(
-  //this will be added to later
-}
